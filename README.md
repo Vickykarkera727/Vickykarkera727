@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vickykarkera727
+- 👋 Hi, I’m Vicky karkera
 - 👀 I’m interested in Machine learning and data science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on open source projects
